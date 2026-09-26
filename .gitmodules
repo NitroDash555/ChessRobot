@@ -1,0 +1,3 @@
+[submodule "chess_ROS2_humble"]
+	path = chess_ROS2_humble
+	url = https://github.com/NitroDash555/chess_ROS2_humble
